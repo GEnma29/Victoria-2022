@@ -8,7 +8,7 @@ import Social from './social'
 
 const Card = () => {
     return (
-        <div className="card w-96 bg-base-100 shadow-xl">
+        <div className="card sm:w-full lg:w-96 bg-base-100 shadow-xl">
             <figure className="px-8 pt-10 ">
                 <img
                     src="https://th.bing.com/th/id/OIP.TlJJxIcO0R4Esn48rXra9wHaE7?w=241&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"
